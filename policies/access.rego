@@ -1,8 +1,8 @@
 package digger
 
 user_permissions := {
-    "motatoes": ["digger plan", "digger apply"],
-    "ZIJ": ["digger plan"]
+    "motatoes": ["digger unlock", "digger plan", "digger apply"],
+    "ZIJ": ["digger unlock", "digger plan"]
 }
 
 veto_list := ["UtpalJayNadiger"]
