@@ -5,7 +5,7 @@ user_permissions := {
     "ZIJ": ["digger unlock", "digger plan", "digger apply"]
 }
 
-veto_list := ["motatoes"]
+veto_list := ["UtpalJayNadiger"]
 
 
 default allow_action = false
