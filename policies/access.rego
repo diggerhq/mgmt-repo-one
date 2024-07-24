@@ -1,11 +1,11 @@
 package digger
 
 user_permissions := {
-    "motatoes": ["digger unlock", "digger drift-detect", "digger plan"],
-    "ZIJ": ["digger unlock", "digger plan", "digger apply"]
+    "motatoes": ["digger unlock", "digger plan", "digger apply"],
+    "ZIJ": ["digger unlock", "digger plan" ]
 }
 
-veto_list := ["UtpalJayNadiger"]
+veto_list := ["motatoes"]
 
 
 default allow_action = false
